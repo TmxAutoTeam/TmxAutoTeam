@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+We are a team From Thermax Automation Department!
+
+🔭 We're currently working on Adding our Progams on Git Architecture
+
+🤔 We're looking for help with making our program addition and deployment easier.
+
 <!--
 **TmxAutoTeam/TmxAutoTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
